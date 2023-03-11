@@ -1,5 +1,5 @@
-### Hi!
-##### How are you?
+## Hi!
+### How are you?
 
 📖 I am a Bachelor of Science and Technology at the Federal University of Rio Grande do Norte.
 👩‍💻 I'm currently learning HTML and C.
