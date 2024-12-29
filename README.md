@@ -32,13 +32,13 @@
 
 ## 🚧 Projetos em Destaque
 
-- 🔭 **[Monitoramento Inteligente de Irrigação](https://github.com/polianaraujo):** Um dispositivo IoT que mede e exibe o consumo de água em um aplicativo móvel.  
-- 📈 **[Análise de Redes de Coautoria](https://github.com/polianaraujo):** Criação de grafos e análise de métricas de redes acadêmicas.  
-- 🌐 **[Mobilidade Sustentável](https://github.com/polianaraujo):** Estudo de centralidade e possíveis locais para dock-stations de bicicletas na UFRN.  
+- ⏱️ **[Relógio para estudos](https://github.com/polianaraujo/clocktime):** Criação de grafos e análise de métricas de redes acadêmicas.  
+- 🌐 **[Mobilidade Sustentável](https://github.com/polianaraujo/aed2/tree/main/U1T5_2):** Estudo de centralidade e possíveis locais para dock-stations de bicicletas na UFRN.
+- 🔭 **[Monitoramento Inteligente de Irrigação](https://github.com/polianaraujo):** Um dispositivo IoT que mede e exibe o consumo de água em um aplicativo móvel.
 
 ---
 
 ## 🌍 Conecte-se comigo!
 
-💌 **E-mail:** [polianellenaraujo@gmail.com](mailto:polianellenaraujo@gmail.com)  
+💌 **E-mail:** [poliana.araujo.111@ufrn.edu.br](mailto:poliana.araujo.111@ufrn.edu.br)  
 🔗 **LinkedIn:** [Poliana Ellen de Araújo](https://www.linkedin.com/in/polianaraujo/)  
