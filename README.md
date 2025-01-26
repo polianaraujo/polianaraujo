@@ -30,11 +30,10 @@
 
 ---
 
-## 🚧 Projetos em Destaque
+## 🚧 Projetos em Andamento
 
 - ⏱️ **[Relógio para estudos](https://github.com/polianaraujo/clocktime):** Criação de grafos e análise de métricas de redes acadêmicas.  
 - 🌐 **[Mobilidade Sustentável](https://github.com/polianaraujo/aed2/tree/main/U1T5_2):** Estudo de centralidade e possíveis locais para dock-stations de bicicletas na UFRN.
-- 🔭 **[Monitoramento Inteligente de Irrigação](https://github.com/polianaraujo):** Um dispositivo IoT que mede e exibe o consumo de água em um aplicativo móvel.
 
 ---
 
