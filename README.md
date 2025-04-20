@@ -32,8 +32,9 @@
 
 ## 🚧 Projetos em Andamento
 
-- ⏱️ **[Relógio para estudos](https://github.com/polianaraujo/cloc).  
+- ⏱️ **[Relógio para estudos](https://github.com/polianaraujo/cloc)**.  
 - 🌐 **[Mobilidade Sustentável](https://github.com/polianaraujo/aed2/tree/main/U1T5_2):** Estudo de centralidade e possíveis locais para dock-stations de bicicletas na UFRN.
+- 📈 **[Qualidade do Ar de Bogotá](https://github.com/polianaraujo/air-quality):** Inferência de dados da qualidade do ar da cidade Bogotá, Colômbia, utilizando processo de desenvolvimento IA for Good.
 
 ---
 
