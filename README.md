@@ -32,7 +32,7 @@
 
 ## 🚧 Projetos em Andamento
 
-- ⏱️ **[Relógio para estudos](https://github.com/polianaraujo/clocktime):** Criação de grafos e análise de métricas de redes acadêmicas.  
+- ⏱️ **[Relógio para estudos](https://github.com/polianaraujo/cloc).  
 - 🌐 **[Mobilidade Sustentável](https://github.com/polianaraujo/aed2/tree/main/U1T5_2):** Estudo de centralidade e possíveis locais para dock-stations de bicicletas na UFRN.
 
 ---
