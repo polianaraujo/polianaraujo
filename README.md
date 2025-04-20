@@ -1,4 +1,4 @@
-### Hi!
+c### Hi!
 #### How are you?
 
 - 📖 I am a Bachelor of Science and Technology from the Federal University of Rio Grande do Norte, and student of Computer Engineering at same.
@@ -10,7 +10,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=polianaraujo&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polianaraujo&layout=compact&theme=tokyonight" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polianaraujo&layout=compact&theme=tokyonight" /> -->
 </div>
 
 ---
