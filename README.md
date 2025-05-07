@@ -8,7 +8,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Status](./url)
+![Status](./https://github.com/polianaraujo/polianaraujo/blob/main/.github/workflows/profile-3d.yml)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=polianaraujo&show_icons=true&theme=tokyonight" />
