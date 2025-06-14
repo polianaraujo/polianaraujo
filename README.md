@@ -2,7 +2,8 @@
 #### How are you?
 
 - 📖 I am a Bachelor of Science and Technology from the Federal University of Rio Grande do Norte, and student of Computer Engineering at same.
-- 👩‍💻 Searcher and data science intern at Aiyra.
+- 👩‍💻 Searcher of Cientific Iniciation in the project "Cognitive Assistant for Geophysical Data" at DCA of the same university.
+- 📊 Data science intern at Aiyra.
 
 ---
 
